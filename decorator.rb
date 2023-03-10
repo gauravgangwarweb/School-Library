@@ -6,6 +6,8 @@ class Decorator < Nameable
     super()
   end
 
+  attr_accessor :decoration
+
   def correct_name
     @decoration.correct_name
   end
