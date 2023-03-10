@@ -84,6 +84,15 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## ﻿🔮﻿ Future Feature <a name="futurefeature"></a>
+
+- Add a Association.
+- Setup basic Ui.
+- Add more classes.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
