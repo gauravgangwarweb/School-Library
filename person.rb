@@ -2,7 +2,6 @@ require './nameable'
 
 
 class Person < Nameable
-  
   attr_accessor :name, :age, :books, :rentals
   attr_reader :id
 
@@ -14,7 +13,6 @@ class Person < Nameable
     @parent_permission = parent_permission
     @rentals = []
   end
-
 
   def correct_name
     @name
